@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1647557176 source:/home/vofy/Projects/pc2m7ukol/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	"complexmath.h"
+
+1647547771 /home/vofy/Projects/pc2m7ukol/complexmath.h
+
+1647547835 source:/home/vofy/Projects/pc2m7ukol/complexmath.c
+
